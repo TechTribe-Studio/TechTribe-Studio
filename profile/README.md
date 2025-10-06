@@ -1,12 +1,12 @@
-# Techtribe Studio
+# TechTribe Studio
 
-**Techtribe Studio** è un'azienda specializzata nello sviluppo e nella tecnologia, con una forte passione per la creazione di soluzioni digitali innovative.
+**TechTribe Studio** è un'azienda specializzata nello sviluppo e nella tecnologia, con una forte passione per la creazione di soluzioni digitali innovative.
 
 ---
 
 ## Chi siamo
 
-Techtribe Studio si dedica allo sviluppo web e alla realizzazione di bot per Discord, offrendo prodotti e servizi all’avanguardia per soddisfare le esigenze dei clienti nel mondo digitale.
+TechTribe Studio si dedica allo sviluppo web e alla realizzazione di bot per Discord, offrendo prodotti e servizi all’avanguardia per soddisfare le esigenze dei clienti nel mondo digitale.
 
 ---
 
@@ -28,3 +28,4 @@ Per maggiori informazioni o richieste, unisciti al nostro server Discord:
 ---
 
 Grazie per aver scelto Techtribe Studio!
+
